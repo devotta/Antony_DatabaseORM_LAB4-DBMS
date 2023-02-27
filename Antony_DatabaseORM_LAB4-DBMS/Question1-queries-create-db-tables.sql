@@ -1,6 +1,6 @@
 CREATE DATABASE Ecommerce;
 
-use Ecommerce1;
+use Ecommerce;
 -- supplier
 CREATE TABLE IF NOT EXISTS supplier(
 	SUPP_ID INT PRIMARY KEY AUTO_INCREMENT,
