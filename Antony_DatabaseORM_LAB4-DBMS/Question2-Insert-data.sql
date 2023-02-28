@@ -1,4 +1,4 @@
-use Ecommerce1;
+use Ecommerce;
 
 -- Insert data in supplier table
 INSERT INTO supplier(SUPP_NAME,SUPP_CITY,SUPP_PHONE) VALUES
